@@ -1,0 +1,14 @@
+# Ignore Unreal Engine files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+.vscode/
+.user
+.userprefs
+*.suo
+*.sdf
+*.opensdf
+*.db
